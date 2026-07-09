@@ -1,0 +1,12 @@
+# Dados locais (Proteção de dados)
+data/
+outputs/
+
+# Ambientes virtuais e Caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebooks
+.ipynb_checkpoints
