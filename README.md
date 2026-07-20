@@ -69,7 +69,7 @@ A seleção do modelo final baseou-se nas métrica de **Acurácia**
 ## 📁 Estrutura do Repositório
 
 ```text
-Antecipa_Pró-Linha/
+Antecipa_Pro-Linha/
 ├── data/                                          # Armazenamento de Dados (Ignorado no Git)
 │   ├── 1_bronze/                                  # Dados brutos originais
 │   ├── 2_silver/                                  # Dados limpos e tratados
