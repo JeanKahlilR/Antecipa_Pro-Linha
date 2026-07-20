@@ -1,10 +1,10 @@
-# Antecipa Pró-Linha 🏭 Predict Maintenance Pipeline
+# Antecipa Pro-Linha 
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![CRISP-DM](https://img.shields.io/badge/Methodology-CRISP--DM-orange.svg)](https://pt.wikipedia.org/wiki/CRISP-DM)
 [![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green.svg)]()
 
-O **Antecipa Pró-Linha** é um pipeline de ponta a ponta de Ciência de Dados voltado para a **Indústria**. O objetivo principal é prever falhas mecânicas em equipamentos de um parque fabril monitorados por sensores, evitando paradas inesperadas na linha de produção e combatendo o efeito *Garbage In, Garbage Out*.
+O **Antecipa Pro-Linha** é um pipeline de ponta a ponta de Ciência de Dados voltado para a **Indústria**. O objetivo principal é prever falhas mecânicas em equipamentos de um parque fabril monitorados por sensores, evitando paradas inesperadas na linha de produção e combatendo o efeito *Garbage In, Garbage Out*.
 
 
 ## 📑 Metodologia CRISP-DM
